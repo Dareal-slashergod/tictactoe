@@ -1,3 +1,7 @@
+let currentplayer="X";
+let totalnumber="0";
+let gameended=false
+performLogic=
 
 
 
